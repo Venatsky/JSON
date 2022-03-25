@@ -1,1 +1,9 @@
-
+{ 
+"Summary":    "No_job_offer"
+"Project":    "hh.ru"
+"Severity"    "S5_Trivial"
+"Priority"    "High"
+"Status"      "Open"
+"Autor"       "Me"
+"Description" "Google Chrome Version 99.0.4844.82/Expected Result:Apply for job - invitation for an interview/result - no interview"
+}
